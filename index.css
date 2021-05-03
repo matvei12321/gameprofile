@@ -2,62 +2,11 @@
   margin: 0;
   padding: 0;
 }
-.kadvanta-gesotavin {
+.border-radiusn {
   position: relative;
-  display: inline-block;
-  margin: 35px 10px;
-  min-width: 243px;
-  max-width: 320px;
-  width: 100%;
+  width: 1024px;
   color: #121213;
-  text-align: left;
-  font-size: 17px;
+  border: 1 solid black;
   background: #f5f5f5;
   border-radius: 3px;
-}
-
-.kadvanta-gesotavin *,
-.kadvanta-gesotavin:before,
-.kadvanta-gesotavin:after {
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
-  -webkit-transition: all 0.5s ease;
-  transition: all 0.5s ease;
-}
-
-.kadvanta-gesotavin img {
-  max-width: 37%;
-  margin-top: -10px;
-  margin-left: 58%;
-  margin-bottom: 10px;
-  backface-visibility: hidden;
-  vertical-align: top;
-  border-radius: 3px;
-}
-
-.kadvanta-gesotavin figcaption {
-  position: absolute;
-  top: 0;
-  right: 38%;
-  left: 0;
-  bottom: 0;
-  padding: 17px;
-}
-
-.kadvanta-gesotavin h3 {
-  margin: 0;
-  font-size: 1.3em;
-  font-weight: normal;
-}
-
-.kadvanta-gesotavin .dsatnem {
-  font-size: 1.3rem;
-}
-
-.kadvanta-gesotavin .dsatnem a {
-  color: #6b8bbb;
-}
-
-.kadvanta-gesotavin .dsatnem a:hover {
-  color: #053656;
 }
