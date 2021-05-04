@@ -13,6 +13,7 @@
     transition: 0.3s;
     width: 400px;
   border-radius: 5px;
+  display:flex
 }
 
 .card:hover {
