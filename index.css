@@ -24,6 +24,7 @@
     padding: 1.5rem 4px;
     margin: 0 0 1rem;
     background-color: rgba(7, 4, 4, 0.5);
+    border-radius: 5px;
 }
 .P1RFQ0uBFAS {
     display: block;
@@ -236,6 +237,7 @@ a {
     position: relative;
     background: rgba(7, 4, 4, 0.7);
     padding: 0.5rem 0.2rem;
+    border-radius: 5px;
 }
 .P1_N58hH6kq {
     width: 50%;
