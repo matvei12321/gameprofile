@@ -5,6 +5,7 @@
 .border-radius {
   position: relative;
   width: 1024px;
+  height: 1024px;
   color: #121213;
   border: 1px solid black;
   background: #f5f5f5;
