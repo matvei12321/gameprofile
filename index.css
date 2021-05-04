@@ -140,13 +140,13 @@
     display: flex;
     margin-left: auto;
     margin-right: auto;
-    width: 960px;
+    width: 100%;
 }
 .P1VbPwnef4W {
-    width: 30%;
+    width: 18%;
 }
 .PC8s01VoGOh {
-    width: 70%;
+    width: 82%;
 }
 .P3OV9NBHuG8 {
     display: -webkit-box;
@@ -188,7 +188,7 @@
     display: block;
     position: relative;
     padding: 0.5rem 10px;
-    height: 100%;
+    height: 10%;
     font-size: 12px;
     font-weight: 700;
     text-transform: uppercase;
